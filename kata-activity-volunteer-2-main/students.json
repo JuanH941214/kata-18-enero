@@ -1,0 +1,25 @@
+{"alumnes": [
+	{
+		"nom":"juan",
+		"cognom":"cognom1"
+	},
+    {
+		"nom":"ruben",
+		"cognom":"cognom2"
+	},
+    {
+		"nom":"andrea",
+		"cognom":"cognom3"
+	},
+    {
+		"nom":"norberto",
+		"cognom":"cognom3"
+	},
+    {
+		"nom":"carles",
+		"cognom":"cognom3"
+	}
+	
+    ]
+
+}    
